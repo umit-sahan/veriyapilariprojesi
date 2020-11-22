@@ -23,7 +23,7 @@ Algoritma Analizi ve Sonuçlar
 
 Proje Karmaşıklığı -> O(n) ‘dir.
 
-Zamansal Analiz Süresi -> 
+Zamansal Analiz Süresi -> T(n)’dir.
 
 
 Video Bağlantısı ve Github Linki
