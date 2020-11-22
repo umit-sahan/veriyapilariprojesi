@@ -19,8 +19,8 @@ Kaynak dosyayı okuyup hedef dosyadaki gibi girintileri ayarlanmış kod dosyas�
 
 Algoritma Analizi ve Sonuçlar
 
-Proje Karmaşıklığı   O(n) ‘dir.
-Zamansal Analiz Süresi  
+Proje Karmaşıklığı -> O(n) ‘dir.
+Zamansal Analiz Süresi -> 
 
 
 Video Bağlantısı ve Github Linki
