@@ -20,12 +20,14 @@ Kaynak dosyayı okuyup hedef dosyadaki gibi girintileri ayarlanmış kod dosyas�
 Algoritma Analizi ve Sonuçlar
 
 Proje Karmaşıklığı -> O(n) ‘dir.
+
 Zamansal Analiz Süresi -> 
 
 
 Video Bağlantısı ve Github Linki
 
 Video Linki : https://www.youtube.com/watch?v=duMEBCFk-9Q
+
 Github linki : https://github.com/King-Ra/veriyapilariprojesi
 
 İş Paylaşımı
