@@ -37,4 +37,9 @@ Github linki : https://github.com/King-Ra/veriyapilariprojesi
 	Projeye başlarken ilk olarak sosyal medya iletişim araçları üzerinden bağlantıyı sağladık. Daha sonra belirlediğimiz tarihlerde toplanarak araştırmalar yapmaya başladık. Bu araştırmaları yaparken sıklıkla github ve stackoverflow’dan yararlanmaya çalıştık.
 
 Kaynaklar
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+
+https://www.pythonforbeginners.com/files/with-statement-in-python
+
+https://cmdlinetips.com/2011/08/three-ways-to-read-a-text-file-line-by-line-in-python
 
