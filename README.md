@@ -30,7 +30,7 @@ Video Bağlantısı ve Github Linki
 
 Video Linki : https://www.youtube.com/watch?v=duMEBCFk-9Q
 
-Github linki : https://github.com/King-Ra/veriyapilariprojesi
+Github linki : https://github.com/umit-sahan/veriyapilariprojesi
 
 İş Paylaşımı
 
